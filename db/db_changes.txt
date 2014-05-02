@@ -1,0 +1,2 @@
+1. Added Columns state_id,city_id,location_id to table basic_hotel_reg
+2. Created table hotel_services
